@@ -31,8 +31,8 @@ set.seed(12345)
 y = rnorm()
 
 
-
 m=9;s=9; set.seed(12)
-x = rt(50, 15, 9); x
+x = rt(50, 15); x
+ks.test(x, "pt", df = 15)$p.value
 
 
