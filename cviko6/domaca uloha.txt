@@ -1,0 +1,10 @@
+vykreslite hustotu a distribucnu funkciu pre t-, f- a chikvadrat-rozdelenie - stupen volnosti vymysliet
+qnorm
+qt
+qchisq
+qf
+
+najst taketo funkcie pre kvantily v exceli - novsie funkcie, zadavaju sa cez bodku
+CHISQ.DIST( x, degrees_freedom, cumulative )
+
+vyskusat kvadraticku funkciu pre maticu, tiez polynom tak, aby x bol vektor - teda vypocitat polynom v roznych hodnotach x
